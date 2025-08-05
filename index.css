@@ -1,0 +1,25 @@
+body{
+background-color: rgb(28, 231, 231)
+}
+
+
+
+h2{
+    background-color: rgb(231, 197, 197);
+    border-left-color: black;
+    
+}
+h2
+marquee{
+    background-color: rgb(243, 111, 177);
+}
+
+hr{
+    lighting-color: black;
+}
+b{
+    border-left-color: rgb(221, 22, 22);
+}
+a{
+    border-left-color: rgb(0, 4, 245);
+}
